@@ -12,7 +12,7 @@ export default function HeroSection(){
                     <ul className={"flex flex-col text-2xl gap-8"}>
                         <a href={"https://www.instagram.com/yadavritik1032021/"} target={"_blank"} rel={"noreferrer"}><li><RiInstagramFill /></li></a>
                         <a href={"https://www.linkedin.com/in/ritik-yadav-380668180/"} target={"_blank"} rel={"noreferrer"}><li><FaLinkedinIn /></li></a>
-                        <a href={"https://wa.me/9804803966"} target={"_blank"} rel={"noreferrer"}><li><FaWhatsapp /></li></a>
+                        <a href={"https://wa.me/+9779804803966"} target={"_blank"} rel={"noreferrer"}><li><FaWhatsapp /></li></a>
                     </ul>
                 </div>
                 <div className={"md:w-5/12 flex flex-col items-end md:px-0 px-4"}>
